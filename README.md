@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="pt">
 <head>
     <meta charset="UTF-8">
@@ -22,9 +21,9 @@
 
         <!-- Biografia de Jhuan -->
         <div style="max-width: 600px; text-align: left;">
-            <p style="font-size: 16px; line-height: 1.6;">Meu nome é Jhuan, sou um programador full-stack com foco em soluções inovadoras. Tenho experiência em diversas linguagens, como <strong>JavaScript</strong>, <strong>Python</strong>, <strong>HTML</strong> e <strong>CSS</strong>.</p>
-            <p style="font-size: 16px; line-height: 1.6;">Desde jovem, sou fascinado pelo mundo da tecnologia e, com o tempo, encontrei na programação uma forma de transformar ideias em realidade. Trabalhei em diversos projetos, sempre buscando aprender e aprimorar minhas habilidades.</p>
-            <p style="font-size: 16px; line-height: 1.6;">Estou sempre em busca de novos desafios e oportunidades para crescer como desenvolvedor e impactar positivamente o mundo por meio da tecnologia.</p>
+            <p style="font-size: 16px; line-height: 1.6;">Meu nome é Jhuan, sou um programador front end com foco em soluções inovadoras.</p>
+            <p style="font-size: 16px; line-height: 1.6;">Desde jovem, sou fascinado pelo mundo da tecnologia e, com o tempo, encontrei na programação uma forma de transformar ideias em realidade..</p>
+            <p style="font-size: 16px; line-height: 1.6;">email:jhuan.ifrr@gmail.com.</p>
         </div>
     </section>
 
